@@ -1,0 +1,1 @@
+(6996|7256) Starting ..\..\logs\MyMsg.txt test at 2013-05-10 18:18:25.416819
