@@ -25,6 +25,7 @@ int ACE_TMAIN (int, ACE_TCHAR *[])
 
 int StartLog()
 {
+	int a=0;
 	const ACE_TCHAR *program = ACE_TEXT("..\\..\\logs\\ACE_Form1.txt");
 	m_output = (ACE_OSTREAM_TYPE *) new ofstream(program);  
 	if(m_output==0)
